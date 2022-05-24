@@ -2,8 +2,6 @@
 
 Played around with [Adaptavist's ScriptRunner app for Atlassian Confluence](https://marketplace.atlassian.com/apps/1215215/scriptrunner-for-confluence?tab=overview&hosting=cloud). Created a script that when ran can take a page and send its contents to the Bionic Reading API for translation and then it posts the result as a comment on the page.
 
-Tried to make it a script listener that ran when a page was created/updated but could not figure out in the short time I played with this why it never ran.
-
 ![What it looks like on confluence](img/2.png "What it looks like")
 <br>
 <br>
