@@ -16,6 +16,7 @@ You must create a script variable to safely store your API key. See:
 * Will run into xhtml errors if the page contains anything other than basic text (like code snippets)
 
 <br>
+
 To read more about bionic reading, visit [https://bionic-reading.com/](https://bionic-reading.com/)
 
 To get an API key, visit [https://rapidapi.com/bionic-reading-bionic-reading-default/api/bionic-reading1/](https://rapidapi.com/bionic-reading-bionic-reading-default/api/bionic-reading1/)
